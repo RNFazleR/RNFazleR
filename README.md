@@ -29,11 +29,8 @@
 
 ---
 
-## 📅 Contribution Graph
+<img width="661" height="131" alt="image" src="https://github.com/user-attachments/assets/9d89e91b-b1d1-42ad-924c-bea757c74d7a" />
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RNFazleR&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ## 💻 Tech Stack
 
