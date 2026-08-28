@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Rifat (King Fazle)
 
-### Biomedical Engineering @ ITS
+### Biomedical Engineering Student @ ITS
 
 **Medical AI • Quantitative Finance • Blockchain**
 
@@ -10,52 +10,56 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 
-- 🫀 Biomedical Signal Processing (ECG & EMG)
-- 📊 Quantitative Trading & Financial Engineering
-- ⛓️ Blockchain, DeFi & Tokenomics
-- 🐍 Python • C • Streamlit
+- 🫀 Interested in **ECG, EMG & Biomedical Signal Processing**
+- 📊 Learning **Quantitative Trading & Financial Engineering**
+- ⛓️ Exploring **Blockchain, DeFi & Tokenomics**
+- 🐍 Mainly using **Python, C & Streamlit**
 
 ---
 
-## Data Visualization
+## 📈 Data Visualization
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RNFazleR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RNFazleR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RNFazleR&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNFazleR&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=RNFazleR&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## Contribution Graph
+## 📅 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RNFazleR&theme=tokyo-night&hide_border=true&area=true"/>
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux,sqlite" />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RNFazleR&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
 
 ---
 
-## Current Projects
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux,sqlite,opencv&perline=8"/>
+</div>
+
+---
+
+## 🚀 Current Projects
 
 - Biomedical Signal Time-Frequency Analysis
 - Gait Parameter Extraction using EMG
-- Quant Research
+- Quant Trading Research
 - Blockchain Analytics
 
 ---
 
 <div align="center">
 
-> *Engineering at the intersection of Healthcare, Finance & Decentralized Systems.*
+*"Engineering at the intersection of Healthcare, Finance & Decentralized Systems."*
 
 </div>
