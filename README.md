@@ -24,16 +24,17 @@
 ## 📊 Data Visualization
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RNFazleR&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=RNFazleR&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RNFazleR&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=RNFazleR&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RNFazleR/RNFazleR/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img width="100%" src="https://raw.githubusercontent.com/RNFazleR/RNFazleR/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 
