@@ -72,7 +72,8 @@ Blockchain
 ## Connect
 
 - LinkedIn : www.linkedin.com/in/rifatnaufalfazlerabb
-- Email : rifat.naufal@example.com
+- Email : rifatfazlerabb@gmail.com
+
 
 ---
 
