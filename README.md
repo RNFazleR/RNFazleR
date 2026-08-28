@@ -27,13 +27,41 @@
 
 ## 🧠 About Me
 
-I'm a Biomedical Engineering student interested in building intelligent systems across healthcare, financial markets, and decentralized technologies.
+<table>
+<tr>
+<td width="33%" align="center">
 
-- 🫀 ECG & EMG Signal Processing
-- 📊 Quantitative Trading Research
-- ⛓️ Blockchain, DeFi & Tokenomics
-- 🐍 Python • C • Streamlit
+### 🫀 Medical AI
 
+ECG • EMG
+
+Signal Processing
+
+</td>
+<td width="33%" align="center">
+
+### 📊 Quant
+
+Statistics
+
+Backtesting
+
+Python
+
+</td>
+<td width="33%" align="center">
+
+### ⛓️ Blockchain
+
+DeFi
+
+Tokenomics
+
+On-chain Data
+
+</td>
+</tr>
+</table>
 ## 📊 Data Visualization
 
 <p align="center">
