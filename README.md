@@ -2,6 +2,8 @@
 
 # Hi 👋 I'm Rifat (King Fazle)
 
+<img src="https://komarev.com/ghpvc/?username=RNFazleR&label=Profile%20Views&color=7C3AED&style=flat" />
+
 ### Biomedical Engineering Student @ ITS
 
 **Medical AI • Quantitative Finance • Blockchain**
@@ -22,11 +24,10 @@
 ## 📊 Data Visualization
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=RNFazleR&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RNFazleR&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=RNFazleR&theme=tokyonight&layout=compact&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RNFazleR&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
