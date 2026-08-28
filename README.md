@@ -23,13 +23,7 @@ I'm a Biomedical Engineering student interested in building intelligent systems 
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RNFazleR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RNFazleR&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="613" height="136" alt="image" src="https://github.com/user-attachments/assets/af7d6e8e-8b6d-4d8c-94d6-846537bfcb60" />
 
 ---
 
