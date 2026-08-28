@@ -1,6 +1,11 @@
 <div align="center">
 
 # Hi 👋 I'm Rifat (King Fazle)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Biomedical+Engineering+Student;Medical+AI+Researcher;Quantitative+Finance+Learner;Blockchain+%26+DeFi+Explorer" alt="Typing SVG" />
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=RNFazleR&label=Profile%20Views&color=7C3AED&style=flat" />
 
