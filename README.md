@@ -9,10 +9,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=RNFazleR&label=Profile%20Views&color=7C3AED&style=flat" />
 <p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME">
+  <a href="https://www.linkedin.com/in/rifat-naufal-475a76340">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:EMAIL">
+  <a href="mailto:rifatfazlerabb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
