@@ -6,6 +6,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Biomedical+Engineering+Student;Medical+AI+Researcher;Quantitative+Finance+Learner;Blockchain+%26+DeFi+Explorer" alt="Typing SVG" />
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=RNFazleR&label=Profile%20Views&color=7C3AED&style=flat" />
 <p align="center">
@@ -29,7 +35,7 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 🫀 Medical AI
 
@@ -38,7 +44,7 @@ ECG • EMG
 Signal Processing
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 📊 Quant
 
@@ -49,7 +55,7 @@ Backtesting
 Python
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### ⛓️ Blockchain
 
@@ -57,11 +63,13 @@ DeFi
 
 Tokenomics
 
-On-chain Data
+On-chain Analytics
 
 </td>
 </tr>
 </table>
+
+---
 ## 📊 Data Visualization
 
 <p align="center">
@@ -128,6 +136,8 @@ Blockchain
 
 <div align="center">
 
-*"Engineering at the intersection of Healthcare, Finance & Decentralized Systems."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
+
+**Building intelligent systems for Healthcare, Finance & Web3**
 
 </div>
