@@ -29,7 +29,11 @@
 
 ---
 
-<img width="661" height="131" alt="image" src="https://github.com/user-attachments/assets/9d89e91b-b1d1-42ad-924c-bea757c74d7a" />
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RNFazleR/RNFazleR/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 
 
 ## 💻 Tech Stack
