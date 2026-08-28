@@ -21,18 +21,21 @@ I'm a Biomedical Engineering student interested in building intelligent systems 
 - ⛓️ Blockchain, DeFi & Tokenomics
 - 🐍 Python • C • Streamlit
 
----
+## 📊 Data Visualization
 
-<img width="613" height="136" alt="image" src="https://github.com/user-attachments/assets/af7d6e8e-8b6d-4d8c-94d6-846537bfcb60" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=RNFazleR&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=RNFazleR&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/RNFazleR/RNFazleR/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img width="100%" src="https://raw.githubusercontent.com/RNFazleR/RNFazleR/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
-
 ---
 
 ## 💻 Tech Stack
