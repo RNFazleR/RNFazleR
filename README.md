@@ -69,7 +69,26 @@ I'm a Biomedical Engineering student interested in building intelligent systems 
 - Financial Engineering
 - Smart Contract Architecture
 
+
 ---
+## 🔬 Research Interests
+
+```text
+Biomedical AI
+├── ECG Signal Processing
+├── EMG Analysis
+└── Medical Informatics
+
+Quantitative Finance
+├── Statistics
+├── Backtesting
+└── Market Microstructure
+
+Blockchain
+├── DeFi
+├── Tokenomics
+└── On-chain Analytics
+```
 
 <div align="center">
 
