@@ -19,26 +19,21 @@
 
 ---
 
-## 📈 Data Visualization
+## 📊 Data Visualization
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RNFazleR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=RNFazleR&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RNFazleR&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=RNFazleR&theme=tokyonight&hide_border=true"/>
-</div>
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=RNFazleR&theme=tokyonight&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
 ## 📅 Contribution Graph
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RNFazleR&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RNFazleR&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 ## 💻 Tech Stack
