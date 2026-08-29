@@ -1,2 +1,81 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="260">
+      <stop offset="0%" stop-color="#070B18"/>
+      <stop offset="55%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
 
-<svg font-family="-apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;" font-weight="400" data-d-component="svg" fill="currentColor" style="color:rgb(255, 255, 255)" viewBox="0 0 820 170" width="100%" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0B1020"/><stop offset="100%" stop-color="#312E81"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#60A5FA"/><stop offset="100%" stop-color="#A78BFA"/></linearGradient></defs><rect width="820" height="170" rx="18" fill="url(#g)"/><path d="M0 118 L120 118 L145 88 L165 142 L185 60 L210 118 L820 118" fill="none" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round"/><text x="36" y="44" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#93C5FD">RNFazleR</text><text x="36" y="72" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#F8FAFC">Rifat Naufal Fazle Rabb</text><text x="36" y="94" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#C7D2FE">Biomedical Engineering @ ITS</text><text x="36" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A5B4FC">Medical AI • Quantitative Research • Blockchain</text></svg>
+    <linearGradient id="wave" x1="0" y1="0" x2="900" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="260" rx="24" fill="url(#bg)"/>
+
+  <g opacity="0.15" stroke="#334155" stroke-width="1">
+    <path d="M70 0V260"/>
+    <path d="M170 0V260"/>
+    <path d="M270 0V260"/>
+    <path d="M370 0V260"/>
+    <path d="M470 0V260"/>
+    <path d="M570 0V260"/>
+    <path d="M670 0V260"/>
+    <path d="M770 0V260"/>
+    <path d="M0 52H900"/>
+    <path d="M0 104H900"/>
+    <path d="M0 156H900"/>
+    <path d="M0 208H900"/>
+  </g>
+
+  <circle cx="785" cy="45" r="80" fill="#60A5FA" opacity="0.08"/>
+  <circle cx="855" cy="185" r="110" fill="#7C3AED" opacity="0.10"/>
+
+  <text x="48" y="34" fill="#60A5FA" font-family="Segoe UI, Arial" font-size="14" letter-spacing="2">RNFazleR</text>
+
+  <text x="48" y="70" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="30" font-weight="700">Rifat Naufal Fazle Rabb</text>
+
+  <text x="48" y="95" fill="#CBD5E1" font-family="Segoe UI, Arial" font-size="16">Biomedical Engineering @ ITS</text>
+
+  <text x="48" y="118" fill="#7DD3FC" font-family="Segoe UI, Arial" font-size="15">Medical AI • Quantitative Research • Blockchain</text>
+
+  <g filter="url(#glow)">
+    <path d="M0 165 L495 165 L515 165 L528 140 L540 182 L552 105 L565 165 L585 165 L598 150 L610 175 L625 165 L900 165" stroke="url(#wave)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+
+  <g transform="translate(48 188)">
+    <rect width="88" height="28" rx="14" fill="#2563EB"/>
+    <text x="44" y="18" fill="white" font-family="Segoe UI" font-size="12" text-anchor="middle" font-weight="600">Python</text>
+
+    <rect x="100" width="72" height="28" rx="14" fill="#7C3AED"/>
+    <text x="136" y="18" fill="white" font-family="Segoe UI" font-size="12" text-anchor="middle" font-weight="600">ECG</text>
+
+    <rect x="184" width="82" height="28" rx="14" fill="#0F766E"/>
+    <text x="225" y="18" fill="white" font-family="Segoe UI" font-size="12" text-anchor="middle" font-weight="600">Quant</text>
+  </g>
+
+  <g opacity="0.8" font-family="Segoe UI" font-size="11" fill="#93C5FD">
+    <text x="690" y="30">ECG</text>
+    <path d="M690 42 L700 42 L705 34 L710 48 L715 20 L720 42 L730 42 L735 36 L740 44 L750 42" stroke="#38BDF8" stroke-width="1.5" fill="none"/>
+
+    <text x="690" y="70">QUANT</text>
+    <path d="M690 82 L700 76 L710 80 L720 68 L730 74 L740 60 L750 52" stroke="#A855F7" stroke-width="1.5" fill="none"/>
+
+    <text x="690" y="110">WEB3</text>
+    <circle cx="700" cy="122" r="3" fill="#38BDF8"/>
+    <circle cx="720" cy="112" r="3" fill="#A855F7"/>
+    <circle cx="740" cy="126" r="3" fill="#22C55E"/>
+    <path d="M700 122 L720 112 L740 126" stroke="#64748B" stroke-width="1"/>
+  </g>
+
+  <text x="48" y="242" fill="#64748B" font-family="Segoe UI" font-size="12">Building intelligent systems for Healthcare, Finance & Web3.</text>
+</svg>
