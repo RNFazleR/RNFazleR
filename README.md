@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Rifat Naufal Fazle Rabb Banner"/>
+  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 </p>
 <div align="center">
 
