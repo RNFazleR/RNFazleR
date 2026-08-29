@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="RNFazleR Banner"/>
+</p>
 <div align="center">
 
 # Hi 👋 I'm Rifat (King Fazle)
