@@ -47,27 +47,19 @@ I'm a Biomedical Engineering student applying signal processing and data-driven 
 
 ### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/RNFazleR/biomedical-signal-time-frequency-analysis">
-    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=RNFazleR&repo=biomedical-signal-time-frequency-analysis&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/RNFazleR/Biomedical-Signal-Analysis">
-    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=RNFazleR&repo=Biomedical-Signal-Analysis&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/RNFazleR/portfolio">
-    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=RNFazleR&repo=portfolio&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+| Repo | Description | Stack |
+|---|---|---|
+| [**biomedical-signal-time-frequency-analysis**](https://github.com/RNFazleR/biomedical-signal-time-frequency-analysis) | Interactive Streamlit app for time-frequency analysis (STFT & CWT) of biomedical signals — synthetic, sinusoidal, or uploaded ECG data. | ![Python](https://img.shields.io/github/languages/top/RNFazleR/biomedical-signal-time-frequency-analysis?style=flat&color=7C3AED) |
+| [**Biomedical-Signal-Analysis**](https://github.com/RNFazleR/Biomedical-Signal-Analysis) | Gait analysis using surface EMG — preprocessing, envelope extraction, activation detection, and time-frequency analysis. | ![Python](https://img.shields.io/github/languages/top/RNFazleR/Biomedical-Signal-Analysis?style=flat&color=7C3AED) |
+| [**portfolio**](https://github.com/RNFazleR/portfolio) | Personal portfolio site. | ![CSS](https://img.shields.io/github/languages/top/RNFazleR/portfolio?style=flat&color=7C3AED) |
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=RNFazleR&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=RNFazleR&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/github/followers/RNFazleR?style=flat&label=Followers&color=7C3AED"/>
+  <img src="https://img.shields.io/github/last-commit/RNFazleR/RNFazleR?style=flat&label=Last%20activity&color=7C3AED"/>
 </p>
 
 <p align="center">
